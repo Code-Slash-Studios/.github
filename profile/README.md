@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+# Repository Management guide:
+- All *Pull Requests* into main must be reviewd
+- Main is a "sacred" branch, it should always be in a functional state
+
 <!--
 
 **Here are some ideas to get you started:**
