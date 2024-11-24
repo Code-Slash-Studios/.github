@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 # Repository Management guide:
-- All *Pull Requests* into main must be reviewd
+- All *Pull Requests* into main must be reviewed
 - Main is a "sacred" branch, it should always be in a functional state
 
 <!--
